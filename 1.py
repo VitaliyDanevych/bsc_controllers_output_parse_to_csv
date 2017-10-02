@@ -1,8 +1,6 @@
-Программа для Олега Короленко по выполнению команд на контроллеры BSC, парсинге аутпута и записи результата в файл.
-
-
 #!/usr/bin/python2.7
 #  #!/usr/bin/env python
+#Программа для Олега Короленко по выполнению команд на контроллеры BSC, парсинге аутпута и записи результата в файл.
 __AUTHOR__='Danevych V.'
 __COPYRIGHT__='Danevych V. 2017 Kiev, Ukraine'
 #vim: tabstop=8 expandtab shiftwidth=4 softtabstop=4
