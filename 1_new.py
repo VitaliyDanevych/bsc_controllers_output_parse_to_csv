@@ -89,7 +89,7 @@ def main():
             list_my.append(line)
             #print('line: ', line)
 
-    with open('/home/fmuser2/scripts/eric_bsc_utiliz/bsc_output2.csv', 'w') as f:
+    with open('/home/fmuser2/scripts/eric_bsc_utiliz/bsc_output.csv', 'w') as f:
         for each in list_my:
             f.write("%s, %s" % (each, '\n'))
 
